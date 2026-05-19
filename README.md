@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CDDzhang
-- 👀 I’m interested in WUHU!!!
+- 👀 My major is Machine Learning & Swarm Robotics.
 - 🌱 I’m currently learning AI Frame & UAV Control.
-- 💞️ I’m looking to collaborate on Tracking or Vision Transformer~
+- 💞️ I'm looking for a position in 2026.
 
 <!---
 CDDzhang/CDDzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
